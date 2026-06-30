@@ -1,3 +1,4 @@
+https://manoj05272005.github.io/Task2--Exploratory-Data-Analysis-EDA/
 # Titanic Dataset Exploratory Data Analysis (EDA)
 
 ## About the EDA
